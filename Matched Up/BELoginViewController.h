@@ -1,5 +1,5 @@
 //
-//  BESecondViewController.h
+//  BELoginViewController.h
 //  Matched Up
 //
 //  Created by Brad Eichen on 5/18/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BESecondViewController : UIViewController
+@interface BELoginViewController : UIViewController
 
 @end
